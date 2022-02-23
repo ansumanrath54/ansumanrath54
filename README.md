@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansumanrath54&label=Profile%20views&color=0e75b6&style=flat" alt="ansumanrath54" /> </p>
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 👨‍💻 I’ve mainly worked on Kotlin, Flutter and React projects.
+
+- 👯 I’d love to collaborate on any interesting idea or project
 
 - 💬 Ask me about **Flutter, Kotlin, Java, C++**
 
 - 📫 How to reach me **ansumanrath54@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
