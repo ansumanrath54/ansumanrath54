@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansuman Rath</h1>
 <h3 align="center">A passionate App Developer</h3>
 
+<img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansumanrath54&label=Profile%20views&color=0e75b6&style=flat" alt="ansumanrath54" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
