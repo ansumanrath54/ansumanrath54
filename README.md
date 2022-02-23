@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 I’ve mainly worked on Kotlin, Flutter and React projects.
+- 👨‍💻 I’ve mainly worked on Flutter and Kotlin projects.
 
 - 👯 I’d love to collaborate on any interesting idea or project
 
