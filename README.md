@@ -9,7 +9,7 @@
 
 - 👯 I’d love to collaborate on any interesting idea or project
 
-- 💬 Ask me about **Flutter, Kotlin, Java, C++**
+- 💬 Ask me about **Flutter, Kotlin, Java, C++, SQL**
 
 - 📫 How to reach me **ansumanrath54@gmail.com**
 
