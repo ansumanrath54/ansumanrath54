@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ansuman Rath</h1>
-<h3 align="center">A passionate App Developer</h3>
+<h3 align="center">A passionate GenAI/AgenticAI Enginner</h3>
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **GenAI/AgenticAI Engineer**
 
-- 👨‍💻 I’ve mainly worked on Flutter and Kotlin projects.
+- 👨‍💻 I’ve mainly worked on Python and Agentic AI framework projects.
 
 - 👯 I’d love to collaborate on any interesting idea or project
 
-- 💬 Ask me about **Flutter, Kotlin, Java, C++, SQL**
+- 💬 Ask me about **Python , GenAI , RAG , Model Context Protocol (MCP) , AutoGen , LangChain , Pandas , NumPy , OpenAI , Gemini ,
+Llama , AWS , Azure , GCP , Vector Database , PostgreSQL , MySQL , KeyCloak , Hugging Face , Transformers ,
+ChromaDB , FastAPI , REST API , Git , AWS (Lambda, Step Functions) , FAISS , RabbitMQ , ITSM ,
+ServiceNow**
 
 - 📫 How to reach me **ansumanrath54@gmail.com**
 
