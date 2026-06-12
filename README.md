@@ -34,10 +34,10 @@ ServiceNow**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a>
 <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40" style="border-radius: 4px;"/>
+  <img src="https://images.imagesverse.com/misc/langchain.svg" alt="langchain" width="40" height="40" style="border-radius: 4px;" />
 </a>
 <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/autogen_logo.svg" alt="autogen" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/ag.svg" alt="autogen" width="40" height="40" />
 </a>
 <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="transformers" width="40" height="40"/>
