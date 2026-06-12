@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansuman Rath</h1>
-<h3 align="center">A passionate GenAI/AgenticAI Enginner</h3>
+<h3 align="center">A passionate GenAI / AgenticAI Enginner</h3>
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
