@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ansuman Rath</h1>
-<h3 align="center">A passionate AI Software Enginner</h3>
+<h3 align="center">A passionate AI Software Engineer</h3>
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-- 🌱 I’m currently learning **GenAI/AgenticAI Engineering**
-
-- 👨‍💻 I’ve mainly worked on Python and Agentic AI framework projects.
+- 🌱 I'm currently focused on building enterprise **Agentic AI & multi-agent systems**
+- 👨‍💻 I build enterprise-grade Generative AI, RAG pipelines, and autonomous agentic workflows.
 
 - 👯 I’d love to collaborate on any interesting idea or project
 
-- 💬 Ask me about **Python , GenAI , RAG , Model Context Protocol (MCP) , AutoGen , LangChain , Pandas , NumPy , OpenAI , Gemini ,
-Llama , AWS , Azure , GCP , Vector Database , PostgreSQL , MySQL , KeyCloak , Hugging Face , Transformers ,
-ChromaDB , FastAPI , REST API , Git , AWS (Lambda, Step Functions) , FAISS , RabbitMQ , ITSM ,
-ServiceNow**
+- 💬 Ask me about **Python, Java, GenAI, Agentic AI, RAG, Model Context Protocol (MCP), LangGraph, AutoGen, LangChain, Transformers, Hugging Face, FastAPI, Spring WebFlux, PostgreSQL, PGVector, ChromaDB, FAISS, Redis, Apache Kafka, RabbitMQ, Keycloak, Docker, Kubernetes, AWS, Azure, GCP, ServiceNow**
 
 - 📫 How to reach me **ansumanrath54@gmail.com**
 
