@@ -32,11 +32,13 @@
 <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
   <img src="https://images.imagesverse.com/misc/langchain.svg" alt="langchain" width="40" height="40" style="border-radius: 4px;" />
 </a>
+<!--
 <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/ag.svg" alt="autogen" width="40" height="40" />
 </a>
-<a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="transformers" width="40" height="40"/>
+-->
+<a href="https://huggingface.co" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HuggingFace-Dark.svg" alt="huggingface" width="40" height="40" />
 </a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
