@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansuman Rath</h1>
-<h3 align="center">A passionate AI Software Engineer</h3>
+<h3 align="center">Software Engineer II (SDE-2) | GenAI & Distributed Systems</h3>
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
@@ -15,8 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ansumanrath54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansumanrath54" height="30" width="40" /></a>
-<a href="https://fb.com/ansumanrath64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ansumanrath64" height="30" width="40" /></a>
-<a href="https://twitter.com/ansumanrath7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansumanrath7" height="30" width="40" /></a>
 <a href="https://myportfolio54.web.app/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62931864/239756015-d7b272e6-528e-46e4-8c58-a85a51ceb257.png" alt="ansumanrath7" height="30" width="40" /></a>
 </p>
 
