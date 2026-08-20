@@ -20,38 +20,24 @@
 -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Core Languages & Frameworks:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-    original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-</a>
-<a href="https://www.langchain.com" target="_blank" rel="noreferrer">
-  <img src="https://images.imagesverse.com/misc/langchain.svg" alt="langchain" width="40" height="40" style="border-radius: 4px;" />
-</a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>
-<!--
-<a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/ag.svg" alt="autogen" width="40" height="40" />
-</a>
--->
-<a href="https://huggingface.co" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HuggingFace-Dark.svg" alt="huggingface" width="40" height="40" />
-</a>
-<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://numpy.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
+</p>
 </p>
 
 <h3 align="left">Generative AI & Agentic AI Stack:</h3>
