@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="300" width="380" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
 
-- 🌱 I'm currently focused on building enterprise **Agentic AI & multi-agent systems**
+- 🌱 I'm currently focused on building enterprise **Agentic AI &, Multi-Agent Systems & Distributed Architectures**
 - 👨‍💻 I build enterprise-grade Generative AI, RAG pipelines, and autonomous agentic workflows.
 
 - 👯 I’d love to collaborate on any interesting idea or project
