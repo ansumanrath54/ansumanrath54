@@ -26,12 +26,18 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-    original.svg" alt="java" width="40" height="40"/>
+</a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a>
 <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
   <img src="https://images.imagesverse.com/misc/langchain.svg" alt="langchain" width="40" height="40" style="border-radius: 4px;" />
 </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  </a>
 <!--
 <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/ag.svg" alt="autogen" width="40" height="40" />
